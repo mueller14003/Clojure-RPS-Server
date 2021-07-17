@@ -15,5 +15,5 @@ To do so, follow the instructions on this website for your corresponding operati
 Once you have Leiningen installed, open a terminal, navigate to the project directory, and use the following command:
 
     $ lein run <port-number>
-    
+
 Replace `<port-number>` with the port number you wish to run the server on.
