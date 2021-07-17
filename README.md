@@ -1,4 +1,4 @@
-# rps-server
+# Clojure-RPS-Server
 
 This repo contains a TCP server for RPS (Rock, Paper, Scissors) written in the Clojure Language.
 
